@@ -3,7 +3,7 @@ void main()
 {
     int a = 12, b = 5;
     int c ;
-    printf("Before Swaping value : \n A = %d \n B =  %d\n", a, b);
+    printf("Before Swaping value rohit : \n A = %d \n B =  %d\n", a, b);
     c = a;
     a = b;
     b= c;
